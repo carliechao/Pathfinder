@@ -1,0 +1,6 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"PCB","Connects the electrical components to the microcontroller",5,6.00,"","JLCPCB"
+"130 Ohms ±1% 0.25W, 1/4W Through Hole Resistor Axial Metal Film","The four resistors to control current to the four LEDs",4,0.40,"https://www.digikey.com/en/products/detail/yageo/MFR-25FRF52-130R/14806","DigiKey"
+"Pushbutton Switch SPST-NO Keyswitch Through Hole","The on/off switches for the PCB",4,7.00,"https://www.digikey.com/en/products/detail/cherry-americas-llc/MX2A-E1NW/21738396","DigiKey"
+"RP2040 XIAO RP2040","The microcontroller to control the PCB",1,4.88,"https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/102010428/14672129","DigiKey"
+"LED RED DIFFUSED 5MM ROUND T/H","The four LEDs on the PCB board",4,0.68,"https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/151051RS11000/4490012","DigiKey"
